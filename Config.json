@@ -4,17 +4,17 @@
   "language": "en",
   "approval": false,
   "premium": false,
-  "BOTNAME": "imran",
+  "BOTNAME": "FESA-BOT",
   "EMAIL": "sanjivfresh@gmail.com",
   "PREFIX": "-",
   "OPERATOR": [
     "",
-    "100091459940475"
+    "AbdulMotin603"
   ],
   "ADMINBOT": [
-    "100075122837809"
+    "AbdulMotin603"
   ],
-  "OWNER": ["100075122837809"],
+  "OWNER": ["AbdulMotin603"],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "Don’t change owner uid or author name"
